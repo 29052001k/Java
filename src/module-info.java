@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hello
+ *
+ */
+module javaProject {
+}
